@@ -1,2 +1,2 @@
 # maciiba-burger
-link for live demo https://ungu.in/MacibaBurger
+link for live demo https://ungu.in/maciba_Burger
